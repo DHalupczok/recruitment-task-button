@@ -1,0 +1,9 @@
+@import './base.css';
+
+@media (min-width: 1024px) {
+    .template {
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+    }
+}
