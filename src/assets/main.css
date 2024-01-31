@@ -2,7 +2,7 @@
 
 @media (min-width: 1024px) {
     .template {
-        min-height: 100vh;
+        min-height: 10vh;
         display: flex;
         align-items: center;
     }

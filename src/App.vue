@@ -123,8 +123,8 @@ import SupportIcon from '@/components/icons/IconSupport.vue'
         <custom-button class="btn-danger btn-large">Danger large</custom-button>
         <custom-button class="btn-warning btn-large">Warning large</custom-button>
         <custom-button class="btn-success btn-outline btn-large"
-          >Success outline large</custom-button
-        >
+          >Success outline large
+        </custom-button>
       </p>
       <p>
         <custom-button class="btn-danger">Danger regular</custom-button>
@@ -135,8 +135,8 @@ import SupportIcon from '@/components/icons/IconSupport.vue'
         <custom-button class="btn-danger btn-small">Danger small</custom-button>
         <custom-button class="btn-warning btn-small">Warning small</custom-button>
         <custom-button class="btn-success btn-small btn-outline"
-          >Success outline small</custom-button
-        >
+          >Success outline small
+        </custom-button>
       </p>
     </div>
     <div>
